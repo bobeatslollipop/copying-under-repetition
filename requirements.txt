@@ -1,0 +1,4 @@
+# Plotting, recorded-data checks, and LLM API experiments (Python 3.10+).
+numpy>=1.24
+matplotlib>=3.5
+requests>=2.28

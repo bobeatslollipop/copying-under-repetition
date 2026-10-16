@@ -1,0 +1,38 @@
+{
+  "397b": {
+    "provider": "ollama",
+    "model": "qwen3.5:397b-cloud",
+    "base_url": "http://localhost:11434",
+    "think": false
+  },
+  "deepseek-v4-pro-no-thinking": {
+    "provider": "deepseek",
+    "model": "deepseek-v4-pro",
+    "base_url": "https://api.deepseek.com",
+    "deepseek_thinking": "disabled"
+  },
+  "gemini-3.1-pro-low-thinking": {
+    "provider": "gemini",
+    "model": "gemini-3.1-pro-preview",
+    "base_url": "https://generativelanguage.googleapis.com/v1beta",
+    "gemini_thinking_level": "low"
+  },
+  "gemini-3.1-pro-medium-thinking": {
+    "provider": "gemini",
+    "model": "gemini-3.1-pro-preview",
+    "base_url": "https://generativelanguage.googleapis.com/v1beta",
+    "gemini_thinking_level": "medium"
+  },
+  "gpt-5.5": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "base_url": "https://api.openai.com/v1",
+    "openai_reasoning_effort": "none"
+  },
+  "gpt-5.5-medium-reasoning": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "base_url": "https://api.openai.com/v1",
+    "openai_reasoning_effort": "medium"
+  }
+}

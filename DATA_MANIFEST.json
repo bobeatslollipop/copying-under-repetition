@@ -1,0 +1,253 @@
+{
+  "files": [
+    {
+      "path": "data/llm/397b.csv",
+      "sha256": "78c7336fefa0724b3aa90def51f960f09b6fc01aacde2c551a0beddeed717937",
+      "rows": 750,
+      "columns": [
+        "model",
+        "condition",
+        "string_length",
+        "switch_prob",
+        "trial_idx",
+        "target",
+        "raw_output",
+        "prediction",
+        "char_acc",
+        "str_acc",
+        "len_penalty",
+        "latency_s",
+        "error",
+        "L_value"
+      ],
+      "source_files": [
+        {
+          "path": "overleaf/LLM_expt_data/397b.csv",
+          "sha256": "78c7336fefa0724b3aa90def51f960f09b6fc01aacde2c551a0beddeed717937"
+        }
+      ],
+      "transformation": "Byte-for-byte copy; empty replies and errors retained.",
+      "error_rows": 0,
+      "empty_raw_output_rows": 112
+    },
+    {
+      "path": "data/llm/deepseek-v4-pro-no-thinking.csv",
+      "sha256": "d42be4d7d93b1f2dad8aac5d3a3de38441e09f70ef7d34533d144256a1b6ebeb",
+      "rows": 750,
+      "columns": [
+        "model",
+        "condition",
+        "string_length",
+        "switch_prob",
+        "trial_idx",
+        "target",
+        "raw_output",
+        "prediction",
+        "char_acc",
+        "str_acc",
+        "len_penalty",
+        "latency_s",
+        "error",
+        "L_value"
+      ],
+      "source_files": [
+        {
+          "path": "overleaf/LLM_expt_data/deepseek-v4-pro-no-thinking.csv",
+          "sha256": "d42be4d7d93b1f2dad8aac5d3a3de38441e09f70ef7d34533d144256a1b6ebeb"
+        }
+      ],
+      "transformation": "Byte-for-byte copy; empty replies and errors retained.",
+      "error_rows": 46,
+      "empty_raw_output_rows": 1
+    },
+    {
+      "path": "data/llm/gemini-3.1-pro-low-thinking.csv",
+      "sha256": "cbf4b79b22c54c11132200d173be7eef72e79d63d3b89fab5c0de7c324556faf",
+      "rows": 750,
+      "columns": [
+        "model",
+        "condition",
+        "string_length",
+        "switch_prob",
+        "trial_idx",
+        "target",
+        "raw_output",
+        "prediction",
+        "char_acc",
+        "str_acc",
+        "len_penalty",
+        "latency_s",
+        "error",
+        "L_value"
+      ],
+      "source_files": [
+        {
+          "path": "overleaf/LLM_expt_data/gemini-3.1-pro-low-thinking.csv",
+          "sha256": "cbf4b79b22c54c11132200d173be7eef72e79d63d3b89fab5c0de7c324556faf"
+        }
+      ],
+      "transformation": "Byte-for-byte copy; empty replies and errors retained.",
+      "error_rows": 18,
+      "empty_raw_output_rows": 0
+    },
+    {
+      "path": "data/llm/gemini-3.1-pro-medium-thinking.csv",
+      "sha256": "2a09d63557b0c769a50fac3b49cf046a5a0c586cabb104e4733785c91f856f2b",
+      "rows": 750,
+      "columns": [
+        "model",
+        "condition",
+        "string_length",
+        "switch_prob",
+        "trial_idx",
+        "target",
+        "raw_output",
+        "prediction",
+        "char_acc",
+        "str_acc",
+        "len_penalty",
+        "latency_s",
+        "error",
+        "L_value"
+      ],
+      "source_files": [
+        {
+          "path": "overleaf/LLM_expt_data/gemini-3.1-pro-medium-thinking.csv",
+          "sha256": "2a09d63557b0c769a50fac3b49cf046a5a0c586cabb104e4733785c91f856f2b"
+        }
+      ],
+      "transformation": "Byte-for-byte copy; empty replies and errors retained.",
+      "error_rows": 25,
+      "empty_raw_output_rows": 0
+    },
+    {
+      "path": "data/llm/gpt-5.5-medium-reasoning.csv",
+      "sha256": "cdc488ff72c12176b5930fe9bf024f289cb6fc3fb07f180b0676955f1e62a500",
+      "rows": 750,
+      "columns": [
+        "model",
+        "condition",
+        "string_length",
+        "switch_prob",
+        "trial_idx",
+        "target",
+        "raw_output",
+        "prediction",
+        "char_acc",
+        "str_acc",
+        "len_penalty",
+        "latency_s",
+        "error",
+        "L_value"
+      ],
+      "source_files": [
+        {
+          "path": "overleaf/LLM_expt_data/gpt-5.5-medium-reasoning.csv",
+          "sha256": "cdc488ff72c12176b5930fe9bf024f289cb6fc3fb07f180b0676955f1e62a500"
+        }
+      ],
+      "transformation": "Byte-for-byte copy; empty replies and errors retained.",
+      "error_rows": 0,
+      "empty_raw_output_rows": 0
+    },
+    {
+      "path": "data/llm/gpt-5.5.csv",
+      "sha256": "26794858844e97d3b4354b2206d9557e2500300b1a6bd3efa19f1baa2e89d077",
+      "rows": 750,
+      "columns": [
+        "model",
+        "condition",
+        "string_length",
+        "switch_prob",
+        "trial_idx",
+        "target",
+        "raw_output",
+        "prediction",
+        "char_acc",
+        "str_acc",
+        "len_penalty",
+        "latency_s",
+        "error",
+        "L_value"
+      ],
+      "source_files": [
+        {
+          "path": "overleaf/LLM_expt_data/gpt-5.5.csv",
+          "sha256": "26794858844e97d3b4354b2206d9557e2500300b1a6bd3efa19f1baa2e89d077"
+        }
+      ],
+      "transformation": "Byte-for-byte copy; empty replies and errors retained.",
+      "error_rows": 0,
+      "empty_raw_output_rows": 0
+    },
+    {
+      "path": "data/synthetic/baseline_seed_results.csv",
+      "sha256": "f954d68fd73a21aa95bb45f164ad4c067358fa10c01be197d9a67a1b6d14c82e",
+      "rows": 16875,
+      "columns": [
+        "model",
+        "seed",
+        "distribution",
+        "string_length",
+        "string_accuracy",
+        "training_run_id",
+        "evaluation_run_id"
+      ],
+      "source_files": [
+        {
+          "path": "overleaf/synthetic_expt_data/baseline_seed_results.csv",
+          "sha256": "9a747eb6f4c35d839929056c3f8d2b6158746a66028b9e2904ab0e6c7cc5e8e2"
+        }
+      ],
+      "transformation": "Drop the archive source-path column; preserve accuracy strings and run IDs."
+    },
+    {
+      "path": "data/synthetic/vo_seed_results.csv",
+      "sha256": "cd7d6c76583612b323e4a8df03495d87f38e8b3be92497df0a942f60e423e484",
+      "rows": 11250,
+      "columns": [
+        "seed",
+        "distribution",
+        "string_length",
+        "string_accuracy",
+        "training_run_id",
+        "evaluation_run_id"
+      ],
+      "source_files": [
+        {
+          "path": "overleaf/synthetic_expt_data/wandb_results/bobguo__VO_no_scalar_/histories/lxv7yv2h__test-stress-long-iid.csv",
+          "sha256": "1ddbd78a4a7c9f07e6f29e0e11a009ea838b0f69fc341c3e0cdb1334f6aaef25"
+        },
+        {
+          "path": "overleaf/synthetic_expt_data/wandb_results/bobguo__VO_no_scalar_/histories/m24dc02m__test-stress-long-L100.csv",
+          "sha256": "af3805eee8d4880d53e1a619ca22c5a0475fb631503d65bf764293e540142e7c"
+        },
+        {
+          "path": "overleaf/synthetic_expt_data/wandb_results/bobguo__VO_no_scalar_/histories/kiocm7l6__test-stress-long-identical.csv",
+          "sha256": "744ef61da052b6e742ecd862af011ddcbf0d7c166af2b7479bd1ac43e7ef25f2"
+        },
+        {
+          "path": "overleaf/synthetic_expt_data/VO_no_scalar_10k_seed43_seed44.csv",
+          "sha256": "c64c5af09bcc3437b1ca74a28b8526e0879ecc598dc7578cb786a812e2533bbf"
+        }
+      ],
+      "transformation": "Merge all three seeds; preserve exact string-accuracy strings and evaluation IDs, attach fixed training IDs, remove archive paths, sort by seed/condition/length."
+    },
+    {
+      "path": "data/synthetic/vo_training_seed42.csv",
+      "sha256": "39df0e8b13ee1f37b3638b34e3abdb6edaae2ff464fa5be77decb8337a223317",
+      "rows": 791,
+      "columns": [
+        "optimizer_update",
+        "train_loss"
+      ],
+      "source_files": [
+        {
+          "path": "overleaf/synthetic_expt_data/wandb_results/bobguo__VO_no_scalar_/histories/6ezr3zh5__training-new.csv",
+          "sha256": "6a88776319e7eb04a7fc8c47b59880b4ca8e957cdf9cc9f695fd812c24ba9656"
+        }
+      ],
+      "transformation": "Retain rows with both _step and train_loss; select these two fields and rename _step to optimizer_update."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# Core versions recorded in the archived training/evaluation environment.
+# Use Python 3.11+ and a PyTorch build appropriate for your GPU.
+-r requirements.txt
+numpy==2.3.4
+torch==2.9.0
+transformers==5.4.0
+accelerate==1.11.0
+wandb==0.22.3
+safetensors==0.6.2
+tqdm==4.67.1

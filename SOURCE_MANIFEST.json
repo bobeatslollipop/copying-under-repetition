@@ -1,0 +1,252 @@
+{
+  "synthetic_git_commit": "8d3195b11f39743f9eae89d4c07810ca96de7f80",
+  "files": [
+    {
+      "destination": "synthetic_exps/models/nope.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/models/nope.py",
+      "source_sha256": "6345b91029b9bf05df8ae856cdcdc35d12430196c6a07347d89db0254a0c7c54",
+      "release_sha256": "4725d4e152890dcc1d7175dca30f8545e1966ce5cc2b95bdae0d563c9a7555e9",
+      "adapted": true
+    },
+    {
+      "destination": "synthetic_exps/models/rope.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/models/rope.py",
+      "source_sha256": "cdf2fe3abd055f23b891a82cf4f19284f9796f1e44d0f4cd880932b575b630fa",
+      "release_sha256": "b8c8a2954912ad4461221dcdee5f585d8464008c0ba86a1acab0636d0c6813ef",
+      "adapted": true
+    },
+    {
+      "destination": "synthetic_exps/models/alibi.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/models/alibi.py",
+      "source_sha256": "4d508c31621b6102fd3ad88ecdcda3a77ffa106c4e0220a697dec7a529988749",
+      "release_sha256": "b4da7ac5ae5ee94a7f0901bc4b876473424ed137109e38dc56d7f8c6d39ca1a7",
+      "adapted": true
+    },
+    {
+      "destination": "synthetic_exps/models/hard_alibi.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/models/hard_alibi.py",
+      "source_sha256": "d96044149a2479a9922d21fd595f1e7ee2b322df24256eedbc66db06ff354378",
+      "release_sha256": "cd8866eebb79d180c62141262c783716d70e0574fc510bd20bd13f6d4f713882",
+      "adapted": true
+    },
+    {
+      "destination": "synthetic_exps/models/sinusoidal.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/models/sinusoidal.py",
+      "source_sha256": "33d527d6c33c2d81c2cfbe1cfdd6e03bce262cdcdeb53006181204844c4c04e3",
+      "release_sha256": "249182806795a04a61de53f132c6b3e4b31c76db9fdd08aa4c5518d8a2ecb81c",
+      "adapted": true
+    },
+    {
+      "destination": "synthetic_exps/models/VO_1_no_scalar.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/models/VO_1_no_scalar.py",
+      "source_sha256": "caa4ab5b4e93490948ef4d5751d137dbc236e1e50ad5bc30bf4f673e663a3860",
+      "release_sha256": "ac83c832179df6bc90d987e752d5b0ed2ce0dfac371a656583d67810893320de",
+      "adapted": true
+    },
+    {
+      "destination": "synthetic_exps/models/mlp.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/models/mlp.py",
+      "source_sha256": "22849da86d70a58d24768e61bec7da05d85ce8344023db71ea8b52d5efabf25b",
+      "release_sha256": "22849da86d70a58d24768e61bec7da05d85ce8344023db71ea8b52d5efabf25b",
+      "adapted": false
+    },
+    {
+      "destination": "synthetic_exps/models/common/__init__.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/models/common/__init__.py",
+      "source_sha256": "c306eab9afc417c954e87a5265f79dba0d20de9ec3383a593e6e575262f29675",
+      "release_sha256": "c306eab9afc417c954e87a5265f79dba0d20de9ec3383a593e6e575262f29675",
+      "adapted": false
+    },
+    {
+      "destination": "synthetic_exps/models/common/attention.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/models/common/attention.py",
+      "source_sha256": "fa2d4c3c20642b52cf2e37657cb1d84f8edded85c2044f679e0b75151ba187af",
+      "release_sha256": "2ba85e963ad0ba762843b0ebcb0092471e6ffc404dc93c2fa859ddb084d3597e",
+      "adapted": true
+    },
+    {
+      "destination": "synthetic_exps/models/common/positional.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/models/common/positional.py",
+      "source_sha256": "b7d723456be039ed138e2452aaf2273c71c95fc3a6129a03243fc475821d83bc",
+      "release_sha256": "5f0771606866c498dc031d3e5090db8870fdfd8f31f61fb1b35048a1f37648b4",
+      "adapted": true
+    },
+    {
+      "destination": "synthetic_exps/models/common/vo.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/models/common/vo.py",
+      "source_sha256": "e4a0555dc44bdf8d3cd7dc5dbeca421eb3761c4fa06c7fe1f797afabbc8120df",
+      "release_sha256": "e4a0555dc44bdf8d3cd7dc5dbeca421eb3761c4fa06c7fe1f797afabbc8120df",
+      "adapted": false
+    },
+    {
+      "destination": "synthetic_exps/utils/data_utils.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/utils/data_utils.py",
+      "source_sha256": "3ca4d395f0c05b4ccb2c7319d8f3f1954083cffd1da4140af6c706eb8f3e1c39",
+      "release_sha256": "fc2af6f2af8818df327012586af5844da2207c11b4a2c3e838b042eb8e02bd65",
+      "adapted": true
+    },
+    {
+      "destination": "synthetic_exps/utils/train_utils.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/utils/train_utils.py",
+      "source_sha256": "831a648532a0d7c3f5ad8c301c3f347527f2ee2c3eeddce7413495058931b73b",
+      "release_sha256": "085bbb56e2497fbcb49c2f75d6f69124d0e500c9f90411de7dd307e6e6874b18",
+      "adapted": true
+    },
+    {
+      "destination": "synthetic_exps/utils/test_utils.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/utils/test_utils.py",
+      "source_sha256": "369213db7c939f9b033ccbb021e46b439c62d7799c3b543844b5b14a0cac5aeb",
+      "release_sha256": "357e49f38d322e8a0ff74cf3efd102a1e4c13046b00f5b0a43b236f4474b9d93",
+      "adapted": true
+    },
+    {
+      "destination": "synthetic_exps/utils/model_utils.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/utils/model_utils.py",
+      "source_sha256": "b1806a78f7f01a49f94e85baec8624b7c996880a25e82f47c96e419de77b5927",
+      "release_sha256": "0d9bfcd711aa25a21b83092fff18bf7a0e980bee62c5f96c44e1ee82e2ff190b",
+      "adapted": true
+    },
+    {
+      "destination": "synthetic_exps/utils/__init__.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/utils/__init__.py",
+      "source_sha256": "e3f261d15db0f01350d9233bbaee8204c619385d29752df61d638ca53b75e7d7",
+      "release_sha256": "e3f261d15db0f01350d9233bbaee8204c619385d29752df61d638ca53b75e7d7",
+      "adapted": false
+    },
+    {
+      "destination": "synthetic_exps/tests/test_data_mask.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/tests/test_data_mask.py",
+      "source_sha256": "ac9ad6872397e3e640bc042e3aae851640d8a4bc48090a855cc423bf6adedd15",
+      "release_sha256": "ac9ad6872397e3e640bc042e3aae851640d8a4bc48090a855cc423bf6adedd15",
+      "adapted": false
+    },
+    {
+      "destination": "synthetic_exps/tests/test_loss.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/tests/test_loss.py",
+      "source_sha256": "20916e16a2daca518ca158ce8ec9463b365b196edb79b4b95ef1c761be9178b7",
+      "release_sha256": "20916e16a2daca518ca158ce8ec9463b365b196edb79b4b95ef1c761be9178b7",
+      "adapted": false
+    },
+    {
+      "destination": "synthetic_exps/tests/test_get_score.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/tests/test_get_score.py",
+      "source_sha256": "c8b174b9eefb30c379ec64f4addb97cf93eb75eea14a9f373434b98173a288e2",
+      "release_sha256": "c8b174b9eefb30c379ec64f4addb97cf93eb75eea14a9f373434b98173a288e2",
+      "adapted": false
+    },
+    {
+      "destination": "synthetic_exps/tests/test_common_helpers.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/tests/test_common_helpers.py",
+      "source_sha256": "914d27933ffefeacc34100fcee2e2493f559b6fd294879257a33258741943bea",
+      "release_sha256": "914d27933ffefeacc34100fcee2e2493f559b6fd294879257a33258741943bea",
+      "adapted": false
+    },
+    {
+      "destination": "synthetic_exps/__init__.py",
+      "source": "git:8d3195b11f39743f9eae89d4c07810ca96de7f80:synthetic_exps/__init__.py",
+      "source_sha256": "476168deab98b061ddd3c55ad0f87d050c4967a0a8a9bae0f1b6efa123aaf86a",
+      "release_sha256": "476168deab98b061ddd3c55ad0f87d050c4967a0a8a9bae0f1b6efa123aaf86a",
+      "adapted": false
+    },
+    {
+      "destination": "llm/core.py",
+      "source": "code/transformer-copy/LLM_tests/LLM_test.py",
+      "source_sha256": "bfc75f957e665f4a32bc2c8d14d2d07c7154cd3bd2486dbe22c60f47d9bda53c",
+      "release_sha256": "17c3180004527b130a4c04c613b2aaf7889f5a8682d612815f4a504e47fa39ee",
+      "adapted": true
+    },
+    {
+      "destination": "data/llm/397b.csv",
+      "source": "overleaf/LLM_expt_data/397b.csv",
+      "source_sha256": "78c7336fefa0724b3aa90def51f960f09b6fc01aacde2c551a0beddeed717937",
+      "release_sha256": "78c7336fefa0724b3aa90def51f960f09b6fc01aacde2c551a0beddeed717937",
+      "adapted": false
+    },
+    {
+      "destination": "data/llm/deepseek-v4-pro-no-thinking.csv",
+      "source": "overleaf/LLM_expt_data/deepseek-v4-pro-no-thinking.csv",
+      "source_sha256": "d42be4d7d93b1f2dad8aac5d3a3de38441e09f70ef7d34533d144256a1b6ebeb",
+      "release_sha256": "d42be4d7d93b1f2dad8aac5d3a3de38441e09f70ef7d34533d144256a1b6ebeb",
+      "adapted": false
+    },
+    {
+      "destination": "data/llm/gemini-3.1-pro-low-thinking.csv",
+      "source": "overleaf/LLM_expt_data/gemini-3.1-pro-low-thinking.csv",
+      "source_sha256": "cbf4b79b22c54c11132200d173be7eef72e79d63d3b89fab5c0de7c324556faf",
+      "release_sha256": "cbf4b79b22c54c11132200d173be7eef72e79d63d3b89fab5c0de7c324556faf",
+      "adapted": false
+    },
+    {
+      "destination": "data/llm/gemini-3.1-pro-medium-thinking.csv",
+      "source": "overleaf/LLM_expt_data/gemini-3.1-pro-medium-thinking.csv",
+      "source_sha256": "2a09d63557b0c769a50fac3b49cf046a5a0c586cabb104e4733785c91f856f2b",
+      "release_sha256": "2a09d63557b0c769a50fac3b49cf046a5a0c586cabb104e4733785c91f856f2b",
+      "adapted": false
+    },
+    {
+      "destination": "data/llm/gpt-5.5.csv",
+      "source": "overleaf/LLM_expt_data/gpt-5.5.csv",
+      "source_sha256": "26794858844e97d3b4354b2206d9557e2500300b1a6bd3efa19f1baa2e89d077",
+      "release_sha256": "26794858844e97d3b4354b2206d9557e2500300b1a6bd3efa19f1baa2e89d077",
+      "adapted": false
+    },
+    {
+      "destination": "data/llm/gpt-5.5-medium-reasoning.csv",
+      "source": "overleaf/LLM_expt_data/gpt-5.5-medium-reasoning.csv",
+      "source_sha256": "cdc488ff72c12176b5930fe9bf024f289cb6fc3fb07f180b0676955f1e62a500",
+      "release_sha256": "cdc488ff72c12176b5930fe9bf024f289cb6fc3fb07f180b0676955f1e62a500",
+      "adapted": false
+    },
+    {
+      "destination": "plots/plot_synthetic_test_accuracy.py",
+      "source": "overleaf/synthetic_expt_data/plot_synthetic_test_accuracy.py",
+      "source_sha256": "70a40e14dd96c5ab7d14dc405c1016993e59bc4f354ef5b38a0a8c3afda2c143",
+      "release_sha256": "f2e9f150d37375468037db345e000eef283c3df347687b28b8a91374017fa789",
+      "adapted": true
+    },
+    {
+      "destination": "plots/plot_synthetic_training_trajectory.py",
+      "source": "overleaf/synthetic_expt_data/plot_synthetic_training_trajectory.py",
+      "source_sha256": "34caef64b57ab5afc4f4bd57e7718a27cd60df62d91f7a2d9438f91ba9dfdceb",
+      "release_sha256": "b8aa8c1413dbd481aca60d470a14baad86be8f58b1942b98e6cc8e1ea3ef3bf8",
+      "adapted": true
+    },
+    {
+      "destination": "plots/plot_vo_generalization_10000.py",
+      "source": "overleaf/synthetic_expt_data/plot_vo_generalization_10000.py",
+      "source_sha256": "69f782fc0364c009f7d15bff674c4dca3a380c7c0ddc5ef2c184d0bd7e2586d1",
+      "release_sha256": "12be0809c75b8cd576ccdaaef365df22f56827ebec27dafb7461e5274d5bc462",
+      "adapted": true
+    },
+    {
+      "destination": "plots/baseline_seed_results.py",
+      "source": "overleaf/synthetic_expt_data/baseline_seed_results.py",
+      "source_sha256": "9f6c28660069df38b49475f0d418d3ab271a571b8dca60aa7f009cf29f87c485",
+      "release_sha256": "c91c8aeb0f7cfa091229df8d7ef23dd86db665f574b6e7b903179efa64a21410",
+      "adapted": true
+    },
+    {
+      "destination": "plots/vo_seed_results.py",
+      "source": "overleaf/synthetic_expt_data/vo_seed_results.py",
+      "source_sha256": "d1d421d647c22e7f9798244f63fde9a2f5a30bf746ed039a3854b502b99ea272",
+      "release_sha256": "8bb35ce231b0856395b654092a307ad8c656a727fd9ebc182bccac83ad7c3444",
+      "adapted": true
+    },
+    {
+      "destination": "plots/plot_llm_main.py",
+      "source": "overleaf/LLM_expt_data/plot_llm_main.py",
+      "source_sha256": "855dbcabd437fa4b794e222929b0cdd03a8d3b2733718012d17cc40273b67769",
+      "release_sha256": "c697786accd00912ed6c6da8cde184964df6f6b4d372493dd370e7d4088886b3",
+      "adapted": true
+    }
+  ],
+  "adaptations": [
+    "Retain only the six models displayed in the manuscript; remove unrelated experiment entry points.",
+    "Replace cluster launchers with train/evaluate/LLM command-line adapters and portable output paths.",
+    "Use original saved arguments for family presets; remove job wall-time limits and chunking.",
+    "Keep model classes, FP8 rounding, scheduler, and masking/scoring semantics from the selected source revision.",
+    "Flatten local result exports for offline plotting, without changing recorded accuracies.",
+    "Remove stale descriptions and unsupported option hints without changing model computation.",
+    "Resume appends missing trials, preserves recorded outcomes and settings, rejects malformed input, and replays skipped sampler draws for fixed seeds."
+  ]
+}
