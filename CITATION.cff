@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+type: software
+title: "Copying Under Repetition: Experiments"
+authors:
+  - family-names: Guo
+    given-names: Anxin
+  - family-names: Huang
+    given-names: Tianlong
+  - family-names: Yang
+    given-names: Chenxiao
+  - family-names: Li
+    given-names: Zhiyuan
+repository-code: "https://github.com/bobeatslollipop/copying-under-repetition"
+url: "https://github.com/bobeatslollipop/copying-under-repetition"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Copying Under Repetition: From Prefix Matching to Position Hashing"
+  authors:
+    - family-names: Guo
+      given-names: Anxin
+    - family-names: Huang
+      given-names: Tianlong
+    - family-names: Yang
+      given-names: Chenxiao
+    - family-names: Li
+      given-names: Zhiyuan
+  year: 2026
+  journal: arXiv
+  doi: "10.48550/arXiv.2610.26722"
+  url: "https://arxiv.org/abs/2610.26722"

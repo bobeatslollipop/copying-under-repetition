@@ -1,6 +1,10 @@
-# Copying Under Repetition: Experiments
+# Copying Under Repetition: From Prefix Matching to Position Hashing
 
-Code and recorded data for the experiments in our horizon-uniform copying manuscript.
+Anxin Guo, Tianlong Huang, Chenxiao Yang, and Zhiyuan Li
+
+[Paper](https://arxiv.org/abs/2610.26722) | [PDF](https://arxiv.org/pdf/2610.26722)
+
+Code, experimental data, and raw model responses accompanying our paper.
 The synthetic models are NoPE, RoPE, ALiBi, Hard-ALiBi, Sinusoidal, and VO-Rotation.
 The LLM data cover the six model variants plotted in the paper.
 
@@ -21,6 +25,7 @@ plots/               Scripts for the five figures shown in the manuscript
 tests/               Recorded-data and LLM scoring checks
 DATA_MANIFEST.json   Dataset counts and SHA-256 checksums
 SOURCE_MANIFEST.json Source revision, original hashes, and release-file hashes
+CITATION.cff         Paper citation metadata
 THIRD_PARTY_NOTICES.md Upstream code attribution and license references
 LICENSE              MIT license for project code and bundled data
 ```
@@ -264,6 +269,23 @@ patterns, third-party notices, complete evaluation grids, stored exact-match
 scores, launch presets, answer masking, shared attention helpers, and LLM
 extraction, empty-output scoring, stream-error handling, response logging, and
 request retries.
+
+## Citation
+
+If you use this code or data, please cite:
+
+```bibtex
+@misc{guo2026copying,
+  title         = {Copying Under Repetition: From Prefix Matching to Position Hashing},
+  author        = {Anxin Guo and Tianlong Huang and Chenxiao Yang and Zhiyuan Li},
+  year          = {2026},
+  eprint        = {2610.26722},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG},
+  doi           = {10.48550/arXiv.2610.26722},
+  url           = {https://arxiv.org/abs/2610.26722}
+}
+```
 
 ## Data Provenance and Licensing
 
